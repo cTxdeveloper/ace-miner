@@ -1,0 +1,6 @@
+requests
+base58
+hashlib
+secrets
+time
+subprocess
